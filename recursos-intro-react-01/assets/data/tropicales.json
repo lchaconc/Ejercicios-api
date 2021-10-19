@@ -1,0 +1,21 @@
+[
+    {        
+        "nombre": "Sandía",        
+        "img": "watermelon.jpg",
+        "info": "Citrullus lanatus, comúnmente llamada sandía, acendría, sindria, patilla, aguamelón o melón de agua, es una especie de la familia Cucurbitaceae. Es originaria de África con una gran presencia y difusión en todo el mundo. Se cultiva de manera extendida por todo el mundo debido a su fruto, el cuál es un pepónide de enorme tamaño",
+        "fuente": "https://es.wikipedia.org/wiki/Citrullus_lanatus"
+    },
+    {        
+        "nombre": "Coco",        
+        "img": "coconut.jpg",
+        "info": "El coco es una fruta (drupa) obtenida principalmente de la especie tropical cocotero (Cocos nucifera), la palmera más cultivada a nivel mundial. Tiene una cáscara exterior gruesa (exocarpio), una capa intermedia fibrosa (mesocarpio) y otra interior dura, vellosa y marrón (endocarpio); que tiene adherida la pulpa blanca y aromática (endospermo). Mide de 20 a 30 cm y llega a pesar 2.6 kg",
+        "fuente": "https://es.wikipedia.org/wiki/Coco"
+    },
+    {        
+        "nombre": "Naranaja",        
+        "img": "orange.jpg",
+        "descriinfopcion": "La naranja es una fruta cítrica obtenida del naranjo dulce (Citrus × sinensis), del naranjo amargo (Citrus × aurantium) y de naranjos de otras variedades o híbridos, de origen asiático.1​ Es un hesperidio carnoso de cáscara más o menos gruesa y endurecida, y su pulpa está formada típicamente por once gajos u hollejos llenos de jugo, el cual contiene mucha vitamina C, flavonoides y aceites esenciales.",
+        "fuente": "https://es.wikipedia.org/wiki/Coco"
+    }
+
+]
